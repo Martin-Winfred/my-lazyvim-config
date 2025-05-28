@@ -84,3 +84,4 @@ Thumbs.db
 \#*\#
 *.un~
 Session.vim
+lazy-lock.json
