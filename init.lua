@@ -2,3 +2,5 @@
 require("config.lazy")
 -- vim.cmd("colorscheme vaporwave")
 vim.cmd("colorscheme catppuccin-macchiato")
+vim.opt.guifont = { "Hack", ":h13" }
+
